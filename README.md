@@ -18,4 +18,10 @@ This project aims to provide a comprehensive platform that offers information ab
 - Tasks are displayed in a sorted order based on time.
 - User-friendly interface to add, edit, and delete tasks.
 
+## Technologies used
+
+* HTML
+* CSS
+* JavaScript
+
   
